@@ -1,0 +1,10 @@
+{
+  "name": "gernal",
+  "version": "0.1.0",
+  "description": "Journal your life with pictures and other rich media.",
+  "repository": "https://github.com/sdaconceicao/gernal.git",
+  "author": "Stephen da Conceicao",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
